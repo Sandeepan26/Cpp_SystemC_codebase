@@ -1,4 +1,4 @@
-# CPP_SystemC_codebase
+# Cpp_SystemC_codebase
 This repository contains codes related to C++ and SystemC
 
 ## SystemC
